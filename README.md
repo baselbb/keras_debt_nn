@@ -1,2 +1,2 @@
 # keras_debt_nn
-Keras Neural Netowrk to Accelerate Late Payments
+Keras Neural Netowork to Accelerate Late Payments
